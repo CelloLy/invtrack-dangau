@@ -1,0 +1,2742 @@
+{
+  "dangau": [
+    {
+      "row": 5,
+      "name": "AJINOMOTO 500 GRAM  (24)",
+      "stock": 37.0,
+      "keterangan": "25 JULI 2028"
+    },
+    {
+      "row": 6,
+      "name": "ALAS NASI 20X20",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 7,
+      "name": "ALAT PEMANGGANG",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 8,
+      "name": "ALKALINE VOLT",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 9,
+      "name": "ALKALINE (2)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 10,
+      "name": "ALKALINE (6)",
+      "stock": 9.0,
+      "keterangan": null
+    },
+    {
+      "row": 11,
+      "name": "ASAM JAWA",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 12,
+      "name": "BAYCLIN (12)",
+      "stock": 23.0,
+      "keterangan": "JUNI 2028"
+    },
+    {
+      "row": 13,
+      "name": "BAYGON",
+      "stock": 23.0,
+      "keterangan": null
+    },
+    {
+      "row": 14,
+      "name": "BERAS KARYAWAN (10)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 15,
+      "name": "BERAS ROYAL REGAL",
+      "stock": 16.0,
+      "keterangan": "15 AGUSTUS 2027"
+    },
+    {
+      "row": 16,
+      "name": "BERAS SOVIA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 17,
+      "name": "BEST FRESH WRAPING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 18,
+      "name": "BIHUN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 19,
+      "name": "BLU9 330 ML",
+      "stock": 594.0,
+      "keterangan": null
+    },
+    {
+      "row": 20,
+      "name": "BLU9 600 ML",
+      "stock": 7.0,
+      "keterangan": null
+    },
+    {
+      "row": 21,
+      "name": "BOX PIZZA LAMA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 22,
+      "name": "BOX DANGAU PUTIH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 23,
+      "name": "BOX 20X20",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 24,
+      "name": "BOX MAHKOTA",
+      "stock": 480.0,
+      "keterangan": null
+    },
+    {
+      "row": 25,
+      "name": "BROWNIES",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 26,
+      "name": "CAPPUCINO (50)",
+      "stock": 45.0,
+      "keterangan": "DESEMBER 2031"
+    },
+    {
+      "row": 27,
+      "name": "CLING",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 28,
+      "name": "CLUB GELAS 220ML",
+      "stock": 1399.0,
+      "keterangan": null
+    },
+    {
+      "row": 29,
+      "name": "CRYSTALIN 600 ML",
+      "stock": 360.0,
+      "keterangan": null
+    },
+    {
+      "row": 30,
+      "name": "CUKA MAKAN",
+      "stock": 5.0,
+      "keterangan": "30 MEI 2030"
+    },
+    {
+      "row": 31,
+      "name": "CUP CAKE 5 CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 32,
+      "name": "CUP CAKE 70CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 33,
+      "name": "CUP CAKE 9CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 34,
+      "name": "CUP KUE UK 5.5",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 35,
+      "name": "CUP KUE UK 70MM",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 36,
+      "name": "CUP KUE UK 95MM",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 37,
+      "name": "DAIA KECIL (24) (245 Gram)",
+      "stock": 29.0,
+      "keterangan": null
+    },
+    {
+      "row": 38,
+      "name": "DETERJEN LAUNDRY",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 39,
+      "name": "EKONOMI (12)",
+      "stock": 21.0,
+      "keterangan": null
+    },
+    {
+      "row": 40,
+      "name": "EMPING (5kg)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 41,
+      "name": "GARAM",
+      "stock": 116.0,
+      "keterangan": "DESEMBER 2031"
+    },
+    {
+      "row": 42,
+      "name": "GARPU BUAH",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 43,
+      "name": "GELAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 44,
+      "name": "GULA MERAH",
+      "stock": 12.0,
+      "keterangan": null
+    },
+    {
+      "row": 45,
+      "name": "GULA HOTEL (100)",
+      "stock": 2841.0,
+      "keterangan": "6 JULI 2028"
+    },
+    {
+      "row": 46,
+      "name": "GULA PASIR",
+      "stock": 38.0,
+      "keterangan": "22 JULI 2028"
+    },
+    {
+      "row": 47,
+      "name": "HAND SOAP",
+      "stock": 10.0,
+      "keterangan": null
+    },
+    {
+      "row": 48,
+      "name": "HD NICO PUTIH SUSU 28",
+      "stock": 9.0,
+      "keterangan": null
+    },
+    {
+      "row": 49,
+      "name": "INDOMIE GORENG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 50,
+      "name": "INDOMIE KALDU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 51,
+      "name": "INDOMIE SOTO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 52,
+      "name": "K.20X20",
+      "stock": 27.0,
+      "keterangan": null
+    },
+    {
+      "row": 53,
+      "name": "K.12X25 (TUNA)",
+      "stock": 35.0,
+      "keterangan": null
+    },
+    {
+      "row": 54,
+      "name": "K.14X20",
+      "stock": 20.0,
+      "keterangan": null
+    },
+    {
+      "row": 55,
+      "name": "K.15X30",
+      "stock": 21.0,
+      "keterangan": null
+    },
+    {
+      "row": 56,
+      "name": "K.15X35",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 57,
+      "name": "K.16X23",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 58,
+      "name": "K.16X24",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 59,
+      "name": "K.17X40 (isi 5) tuna",
+      "stock": 30.0,
+      "keterangan": null
+    },
+    {
+      "row": 60,
+      "name": "K.9X15",
+      "stock": 16.0,
+      "keterangan": null
+    },
+    {
+      "row": 61,
+      "name": "KANTONG HD 24",
+      "stock": 9.0,
+      "keterangan": null
+    },
+    {
+      "row": 62,
+      "name": "KANTONG PUTIH HD 17",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 63,
+      "name": "KANTONG 10X17",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 64,
+      "name": "KANTONG 10X17 KLIP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 65,
+      "name": "KANTONG 14X22 KLIP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 66,
+      "name": "KANTONG 14X22",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 67,
+      "name": "KANTONG 17 PUTIH SUSU",
+      "stock": 12.0,
+      "keterangan": null
+    },
+    {
+      "row": 68,
+      "name": "KANTONG 40X60 (LAUNDRY)",
+      "stock": 3200.0,
+      "keterangan": null
+    },
+    {
+      "row": 69,
+      "name": "KANTONG 80X130",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 70,
+      "name": "KANTONG HDPE ANTI PANAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 71,
+      "name": "KARBOL SEREH",
+      "stock": 11.0,
+      "keterangan": null
+    },
+    {
+      "row": 72,
+      "name": "KECAP ASIN",
+      "stock": 9.0,
+      "keterangan": "6 MEI 2029"
+    },
+    {
+      "row": 73,
+      "name": "KECAP IKAN",
+      "stock": 2.0,
+      "keterangan": "AGUSTUS 2029"
+    },
+    {
+      "row": 74,
+      "name": "KECAP MANIS INDOFOOD 5,7",
+      "stock": 3.0,
+      "keterangan": "5 AGUSTUS 2028"
+    },
+    {
+      "row": 75,
+      "name": "KERTAS BAPAU 7CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 76,
+      "name": "KERTAS BAPAU 6",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 77,
+      "name": "KERUPUK 18",
+      "stock": 17.0,
+      "keterangan": null
+    },
+    {
+      "row": 78,
+      "name": "KERUPUK UDANG",
+      "stock": 11.0,
+      "keterangan": null
+    },
+    {
+      "row": 79,
+      "name": "KOPI BIJI",
+      "stock": 9.0,
+      "keterangan": "2027-09-15 00:00:00"
+    },
+    {
+      "row": 80,
+      "name": "KOPI BUBUK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 81,
+      "name": "KOPI NESCAFE",
+      "stock": 1474.0,
+      "keterangan": "JULI 2028"
+    },
+    {
+      "row": 82,
+      "name": "KOTAK 16X16",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 83,
+      "name": "KOTAK KUE 12X12",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 84,
+      "name": "KOTAK KUE 25X25",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 85,
+      "name": "KOTAK KUE PUTIH POLOS UK 28",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 86,
+      "name": "KOTAK NASI 20X20 (50)",
+      "stock": 24.0,
+      "keterangan": null
+    },
+    {
+      "row": 87,
+      "name": "KOTAK PIZZA KECIL",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 88,
+      "name": "KOTAK PIZZA SEGI 4",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 89,
+      "name": "KOTAK SUSHI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 90,
+      "name": "KOTAK TAKEAWAY DANGAU 20X20",
+      "stock": 2690.0,
+      "keterangan": null
+    },
+    {
+      "row": 91,
+      "name": "LILIN LAMPU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 92,
+      "name": "LOGO DANGAU COKLAT",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 93,
+      "name": "LONGAN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 94,
+      "name": "MAIZENA (150 GR)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 95,
+      "name": "MAMA LEMON (12)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 96,
+      "name": "MARJAN COCOPANDAN",
+      "stock": 8.0,
+      "keterangan": "7 MARET 2029"
+    },
+    {
+      "row": 97,
+      "name": "MARJAN GRORADINO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 98,
+      "name": "MARJAN LECI",
+      "stock": 4.0,
+      "keterangan": "8 JULI 2029"
+    },
+    {
+      "row": 99,
+      "name": "MARJAN MELON (12)",
+      "stock": 10.0,
+      "keterangan": "21 AGUSTUS 2029"
+    },
+    {
+      "row": 100,
+      "name": "MARJAN STROBERI",
+      "stock": 4.0,
+      "keterangan": "5 JANUARI 2029"
+    },
+    {
+      "row": 101,
+      "name": "MASAKO AYAM 460 GRAM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 102,
+      "name": "MASAKO SAPI 460 GRAM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 103,
+      "name": "MIE BOLA (12)",
+      "stock": 45.0,
+      "keterangan": "25 JUNI 2027"
+    },
+    {
+      "row": 104,
+      "name": "MIKA NASI",
+      "stock": 77.0,
+      "keterangan": null
+    },
+    {
+      "row": 105,
+      "name": "MIKA SEKAT NASI",
+      "stock": 12.0,
+      "keterangan": null
+    },
+    {
+      "row": 106,
+      "name": "MILO",
+      "stock": 40.0,
+      "keterangan": "MEI 2027"
+    },
+    {
+      "row": 107,
+      "name": "MINYAK BIMOLI 18 Liter",
+      "stock": 19.0,
+      "keterangan": null
+    },
+    {
+      "row": 108,
+      "name": "MINYAK WIJEN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 109,
+      "name": "NATA DE COCO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 110,
+      "name": "NESTLE 330ML",
+      "stock": 288.0,
+      "keterangan": null
+    },
+    {
+      "row": 111,
+      "name": "NESTLE 600ML",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 112,
+      "name": "NUTRISARI JERUK PERAS 500G",
+      "stock": 15.0,
+      "keterangan": "9 AGUSTUS 2027"
+    },
+    {
+      "row": 113,
+      "name": "NUTRISARI LEMON TEA",
+      "stock": 11.0,
+      "keterangan": "14 JANUARI 2027"
+    },
+    {
+      "row": 114,
+      "name": "PASQUA 330 ML",
+      "stock": 24.0,
+      "keterangan": null
+    },
+    {
+      "row": 115,
+      "name": "PASQUA 550 ML",
+      "stock": 743.0,
+      "keterangan": null
+    },
+    {
+      "row": 116,
+      "name": "PASQUA 600ML",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 117,
+      "name": "PARFUM LAUNDRY",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 118,
+      "name": "PEMUTIH LAUNDRY",
+      "stock": 16.0,
+      "keterangan": null
+    },
+    {
+      "row": 119,
+      "name": "PEMBERSIH KACA",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 120,
+      "name": "PEWANGI DAHLIA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 121,
+      "name": "PEMBERSIH LANTAI",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 122,
+      "name": "PIRING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 123,
+      "name": "PLASTIK SHEET 20X20",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 124,
+      "name": "PP FULL 14X20",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 125,
+      "name": "ROYCO AYAM 460G (12)",
+      "stock": 28.0,
+      "keterangan": "29 JUNI 2027"
+    },
+    {
+      "row": 126,
+      "name": "ROYCO SAPI 460G",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 127,
+      "name": "SABUN CAP KUCING",
+      "stock": 74.0,
+      "keterangan": "JUNI 2028"
+    },
+    {
+      "row": 128,
+      "name": "SABUN MERAH",
+      "stock": 160.0,
+      "keterangan": null
+    },
+    {
+      "row": 129,
+      "name": "SABUT HIJAU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 130,
+      "name": "SABUN HIJAU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 131,
+      "name": "SANDAL",
+      "stock": 9512.0,
+      "keterangan": null
+    },
+    {
+      "row": 132,
+      "name": "SALF",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 133,
+      "name": "SANTAN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 134,
+      "name": "SAOS SAMBAL",
+      "stock": 5.0,
+      "keterangan": "JUNI 2027"
+    },
+    {
+      "row": 135,
+      "name": "SAOS TOMAT ABC",
+      "stock": 5.0,
+      "keterangan": "23 JULI 2027"
+    },
+    {
+      "row": 136,
+      "name": "SATAY PASTA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 137,
+      "name": "SEAWED",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 138,
+      "name": "SEDOTAN FLEXIBLE STRAW",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 139,
+      "name": "SEDOTAN SAMURAI DANGAU",
+      "stock": 20.0,
+      "keterangan": null
+    },
+    {
+      "row": 140,
+      "name": "SENDOK MAKAN VICTORY (PP)",
+      "stock": 18.0,
+      "keterangan": null
+    },
+    {
+      "row": 141,
+      "name": "SHAMPOO PUTIH",
+      "stock": 180.0,
+      "keterangan": null
+    },
+    {
+      "row": 142,
+      "name": "SHOWERCAP",
+      "stock": 8576.0,
+      "keterangan": null
+    },
+    {
+      "row": 143,
+      "name": "SIKAT GIGI",
+      "stock": 8011.0,
+      "keterangan": null
+    },
+    {
+      "row": 144,
+      "name": "SISIR",
+      "stock": 1388.0,
+      "keterangan": null
+    },
+    {
+      "row": 145,
+      "name": "SOFTENER",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 146,
+      "name": "STANDING POUCH 10 X17 ( PLASTIK KLIP)",
+      "stock": 46.0,
+      "keterangan": null
+    },
+    {
+      "row": 147,
+      "name": "STANDING POUCH 12X20",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 148,
+      "name": "STANDING POUCH 14X22CM",
+      "stock": 34.0,
+      "keterangan": null
+    },
+    {
+      "row": 149,
+      "name": "STANDING POUCH 16X24",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 150,
+      "name": "STELLA KECIL",
+      "stock": 12.0,
+      "keterangan": null
+    },
+    {
+      "row": 151,
+      "name": "STELLA  (350+50)ml",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 152,
+      "name": "STERNO",
+      "stock": 183.0,
+      "keterangan": null
+    },
+    {
+      "row": 153,
+      "name": "SUSU DAIRY (24)",
+      "stock": 18.0,
+      "keterangan": "DESEMBER 2027"
+    },
+    {
+      "row": 154,
+      "name": "SWALLOW BALL JMB 114",
+      "stock": 20.0,
+      "keterangan": null
+    },
+    {
+      "row": 155,
+      "name": "THE KOTAK SOSRO",
+      "stock": 208.0,
+      "keterangan": "15 MARET 2027"
+    },
+    {
+      "row": 156,
+      "name": "TEH CAP BOTOL",
+      "stock": 133.0,
+      "keterangan": "2028-04-02 00:00:00"
+    },
+    {
+      "row": 157,
+      "name": "TEH HOTEL ( Lipton isi 12)",
+      "stock": 2874.0,
+      "keterangan": "29 MEI 2028"
+    },
+    {
+      "row": 158,
+      "name": "TEH PRENDJAK",
+      "stock": 80.0,
+      "keterangan": "23 JUNI 2028"
+    },
+    {
+      "row": 159,
+      "name": "TEPUNG DOUBLE ZERO",
+      "stock": 150.0,
+      "keterangan": "2027-04-12 00:00:00"
+    },
+    {
+      "row": 160,
+      "name": "TEPUNG KETAN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 161,
+      "name": "TEPUNG LENCANA MERAH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 162,
+      "name": "TEPUNG ROTI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 163,
+      "name": "TEPUNG HERCULES",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 164,
+      "name": "TEPUNG TERIGU",
+      "stock": 45.0,
+      "keterangan": null
+    },
+    {
+      "row": 165,
+      "name": "TISSU BOX (24)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 166,
+      "name": "TISSU ROLL (144)",
+      "stock": 468.0,
+      "keterangan": null
+    },
+    {
+      "row": 167,
+      "name": "TISSU SENDOK (60)",
+      "stock": 157.0,
+      "keterangan": null
+    },
+    {
+      "row": 168,
+      "name": "TISSU TOWEL/ TISU WASTAFEL (24)",
+      "stock": 83.0,
+      "keterangan": null
+    },
+    {
+      "row": 169,
+      "name": "TISU FACIAL  (24)",
+      "stock": 67.0,
+      "keterangan": null
+    },
+    {
+      "row": 170,
+      "name": "TISU POP UP (20)",
+      "stock": 48.0,
+      "keterangan": null
+    },
+    {
+      "row": 171,
+      "name": "TISU PULPIES",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 172,
+      "name": "TISU TAMU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 173,
+      "name": "TUSUK SATE",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 174,
+      "name": "TUSUK BUAH BENING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 175,
+      "name": "TUTUP GOBLET",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 176,
+      "name": "VIXAL 750ML(12)",
+      "stock": 19.0,
+      "keterangan": null
+    },
+    {
+      "row": 177,
+      "name": "WIJEN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 178,
+      "name": "INDOCAFE CAPPUCINO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 179,
+      "name": "MINYAK FILMA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 180,
+      "name": "LUNCH BOX",
+      "stock": 7850.0,
+      "keterangan": null
+    },
+    {
+      "row": 181,
+      "name": "DUS SNACK MOTIF MANTAP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 182,
+      "name": "MIKA BENTO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 183,
+      "name": "KANTONG PUTIH 28",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 184,
+      "name": "KANTONG GAMMA UK 21X39",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 185,
+      "name": "KECAP MANIS INDOFOOD 725",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 186,
+      "name": "TISU LIVI EVO PREMIUM (60)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 187,
+      "name": "KERUPUK BANDUNG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 188,
+      "name": "CUP CAKE UK 55 MM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 189,
+      "name": "KOPI SURYA",
+      "stock": 10.0,
+      "keterangan": "2027-09-15 00:00:00"
+    },
+    {
+      "row": 190,
+      "name": "KOPI JANGKAR",
+      "stock": 10.0,
+      "keterangan": null
+    },
+    {
+      "row": 191,
+      "name": "DETERGENT BATANGAN KUCING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 192,
+      "name": "PLASTIK BAWANG 80X130X0,06",
+      "stock": 79.0,
+      "keterangan": null
+    },
+    {
+      "row": 193,
+      "name": "KOTAK PIZZA LAMA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 194,
+      "name": "TEPUNG AGAR-AGAR",
+      "stock": 36.0,
+      "keterangan": null
+    },
+    {
+      "row": 195,
+      "name": "MIKA BROWNIES UK.S",
+      "stock": 77.0,
+      "keterangan": null
+    }
+  ],
+  "white_house": [
+    {
+      "row": 5,
+      "name": "ABON TUNA",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 6,
+      "name": "ABON AYAM",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 7,
+      "name": "ANCHOR CREAM CHEESE",
+      "stock": 9.0,
+      "keterangan": "11 maret 2027"
+    },
+    {
+      "row": 8,
+      "name": "ALAS GELAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 9,
+      "name": "ALMOND SICE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 10,
+      "name": "ALUMINUIM FOIL",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 11,
+      "name": "ASSORTED CHILI PEPPER NANAMI TOGARASHI",
+      "stock": 1.0,
+      "keterangan": "4  maret 2027"
+    },
+    {
+      "row": 12,
+      "name": "ASSORTED CHILI PEPPER ICHIMI TOGARASHI",
+      "stock": 3.0,
+      "keterangan": "28 juni 2027"
+    },
+    {
+      "row": 13,
+      "name": "BEST FRESH WORPING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 14,
+      "name": "BIJI KUACI",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 15,
+      "name": "BIJI KUACI THE NUTHOUSE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 16,
+      "name": "BIJI LABU",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 17,
+      "name": "BIO BIANCA",
+      "stock": 23.0,
+      "keterangan": "16 januari 2027, 10 DESEMBER 2027"
+    },
+    {
+      "row": 18,
+      "name": "BLUEBAND CAKE COOKIE",
+      "stock": 32.0,
+      "keterangan": "2027-04-06 00:00:00"
+    },
+    {
+      "row": 19,
+      "name": "BLUEBAND SERBAGUNA",
+      "stock": 75.0,
+      "keterangan": "10 maret 2027"
+    },
+    {
+      "row": 20,
+      "name": "BROWNIES SUSHI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 21,
+      "name": "BUMBU SUSHI SEASONING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 22,
+      "name": "BUNGA TELANG",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 23,
+      "name": "CEILING LIGHT",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 24,
+      "name": "CHILI PEPPER ICHIMI TOGARASHI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 25,
+      "name": "CHOCOCHIPS JAGUNG/KOMPLEK",
+      "stock": 27.0,
+      "keterangan": "2027-04-01 00:00:00"
+    },
+    {
+      "row": 26,
+      "name": "CHOCOCHIPS SIMBA",
+      "stock": 7.0,
+      "keterangan": "8 februari 2027"
+    },
+    {
+      "row": 27,
+      "name": "CHRISTA TUNA",
+      "stock": 3.0,
+      "keterangan": "17 juli 2027"
+    },
+    {
+      "row": 28,
+      "name": "COKLAT BUBUK BENSDROP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 29,
+      "name": "COLLATA CHOCO CHIP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 30,
+      "name": "COLLATA DARK",
+      "stock": 8.0,
+      "keterangan": "29 maret 2028"
+    },
+    {
+      "row": 31,
+      "name": "COLLATA WHITE",
+      "stock": 3.0,
+      "keterangan": "20 maret 2027"
+    },
+    {
+      "row": 32,
+      "name": "CORN FLAKES 500 G",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 33,
+      "name": "CORNICHE WHITE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 34,
+      "name": "CRYSTAL ALMOND",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 35,
+      "name": "DANCOW",
+      "stock": 4.0,
+      "keterangan": "desember 2027"
+    },
+    {
+      "row": 36,
+      "name": "DEL MONTE SAUS TOMAT SACHET",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 37,
+      "name": "DEL MONTE XTRA HOT SACHET",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 38,
+      "name": "DELMONTE SAUS SAMBAL SACHET",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 39,
+      "name": "DIMSUM ROUND 32 CM",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 40,
+      "name": "DIRECT THREMAL LABEL",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 41,
+      "name": "DRIED CUT WAKAME",
+      "stock": 2.0,
+      "keterangan": "13 oktober 2027"
+    },
+    {
+      "row": 42,
+      "name": "ENACHAN MISO PUTIH",
+      "stock": 1.0,
+      "keterangan": "26 maret 2027"
+    },
+    {
+      "row": 43,
+      "name": "EVAPORATED MILK SUNBAY",
+      "stock": 17.0,
+      "keterangan": "2027-04-14 00:00:00"
+    },
+    {
+      "row": 44,
+      "name": "LA FONTE FETTUCINE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 45,
+      "name": "FIGARO ACAR KAPERS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 46,
+      "name": "FILTER BAG ONE TWO CUPS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 47,
+      "name": "FILTER KOPI ONE TWO CUPS 7 RH X 1LBR",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 48,
+      "name": "FOOD CONTAINER 1000ML",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 49,
+      "name": "FOOD CONTAINER SQUARE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 50,
+      "name": "FRUCTUS LYCII 100G",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 51,
+      "name": "FRUTANEIRA LYCHEE",
+      "stock": 4.0,
+      "keterangan": "25 JUNI 2027"
+    },
+    {
+      "row": 52,
+      "name": "GARPU PLASTIK BESAR",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 53,
+      "name": "GARPU PLASTIK BUAH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 54,
+      "name": "GELAS 12 OZ",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 55,
+      "name": "GELAS 14 OZ",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 56,
+      "name": "GELAS LOGO DANGAU",
+      "stock": 24.0,
+      "keterangan": null
+    },
+    {
+      "row": 57,
+      "name": "GELATINE 500GR",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 58,
+      "name": "GLOBAL MUSHROOM",
+      "stock": 61.0,
+      "keterangan": "6 mei 2028/13 November 2028"
+    },
+    {
+      "row": 59,
+      "name": "GULA MERAH (PALM SUGAR)",
+      "stock": 3.0,
+      "keterangan": "2024-11-16 00:00:00"
+    },
+    {
+      "row": 60,
+      "name": "GULARE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 61,
+      "name": "GULA HALUS (GULUS)",
+      "stock": 21.0,
+      "keterangan": "6 maret 2028"
+    },
+    {
+      "row": 62,
+      "name": "HEINZ PASTE",
+      "stock": 8.0,
+      "keterangan": "14 oktober 2027"
+    },
+    {
+      "row": 63,
+      "name": "HI GAS",
+      "stock": 15.0,
+      "keterangan": null
+    },
+    {
+      "row": 64,
+      "name": "HONDASHI SUSHI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 65,
+      "name": "I PELATI",
+      "stock": 15.0,
+      "keterangan": "31 desember 2028"
+    },
+    {
+      "row": 66,
+      "name": "JAGUNG HALUS",
+      "stock": 32.0,
+      "keterangan": "9 desember 2028"
+    },
+    {
+      "row": 67,
+      "name": "JAGUNG KASAR",
+      "stock": 33.0,
+      "keterangan": "24/11/2028/11 desember 2028"
+    },
+    {
+      "row": 68,
+      "name": "JAPONICA 10KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 69,
+      "name": "JUICE JUNGLE GUAVA",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 70,
+      "name": "JUICE JUNGLE ORANGE",
+      "stock": 8.0,
+      "keterangan": "11 mei 2027/15 SEPTEMBER 2027"
+    },
+    {
+      "row": 71,
+      "name": "JUICE JUNGLE LEMON",
+      "stock": 3.0,
+      "keterangan": "27 JULI 2027"
+    },
+    {
+      "row": 72,
+      "name": "JUICE JUNGLE PINEAPPLE",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 73,
+      "name": "JERUK NIPIS KERING",
+      "stock": 2.0,
+      "keterangan": "8 JANUARI 2025"
+    },
+    {
+      "row": 74,
+      "name": "KACANG HIJAU YU AI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 75,
+      "name": "KACANG MERAH YU AI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 76,
+      "name": "KACANG METE",
+      "stock": 1.0,
+      "keterangan": "22 MARET 2027"
+    },
+    {
+      "row": 77,
+      "name": "KANTONG 120X100",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 78,
+      "name": "KANTONG 15 X 30",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 79,
+      "name": "KANTONG 40X50",
+      "stock": 135.0,
+      "keterangan": null
+    },
+    {
+      "row": 80,
+      "name": "KANTONG 40X60",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 81,
+      "name": "KANTONG 50X75",
+      "stock": 59.0,
+      "keterangan": null
+    },
+    {
+      "row": 82,
+      "name": "KANTONG 80 X 100",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 83,
+      "name": "KANTONG 90 X 120",
+      "stock": 25.0,
+      "keterangan": null
+    },
+    {
+      "row": 84,
+      "name": "KANTONG KAIN PANAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 85,
+      "name": "KANTONG P SUSU UK 28",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 86,
+      "name": "KANTONG UK 40",
+      "stock": 27.0,
+      "keterangan": null
+    },
+    {
+      "row": 87,
+      "name": "KANTONG UK 50",
+      "stock": 20.0,
+      "keterangan": null
+    },
+    {
+      "row": 88,
+      "name": "KARI HOUSE JEPANG",
+      "stock": 3.0,
+      "keterangan": "2027-11-07 00:00:00"
+    },
+    {
+      "row": 89,
+      "name": "KATSUODASHI",
+      "stock": 2.0,
+      "keterangan": "2025-04-01 00:00:00"
+    },
+    {
+      "row": 90,
+      "name": "KECAP BANGO",
+      "stock": 3.0,
+      "keterangan": "29 MEI 2027"
+    },
+    {
+      "row": 91,
+      "name": "KECAP BULLDOG",
+      "stock": 3.0,
+      "keterangan": "18 JANUARI 2028/7 APRIL 2026"
+    },
+    {
+      "row": 92,
+      "name": "KECAP MAGGIE",
+      "stock": 1.0,
+      "keterangan": "2026-11-18 00:00:00"
+    },
+    {
+      "row": 93,
+      "name": "KERANJANG PLASTIK KAHYANGAN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 94,
+      "name": "KERTAS BAKPAO UK 5 (500)",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 95,
+      "name": "KERTAS BAKPAO UK 7 CM",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 96,
+      "name": "KERTAS BAKPAU UK 6.0 (500)",
+      "stock": 9.0,
+      "keterangan": null
+    },
+    {
+      "row": 97,
+      "name": "KERTAS DIMSUM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 98,
+      "name": "KERTAS DIMSUM UK 4.5",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 99,
+      "name": "KERTAS FILTER KOPI 01",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 100,
+      "name": "KERTAS FILTER KOPI 02",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 101,
+      "name": "KIKKOMAN KECAP ASIN",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 102,
+      "name": "KIKKOMAN SAUS MANIS",
+      "stock": 3.0,
+      "keterangan": "2026-11-14 00:00:00"
+    },
+    {
+      "row": 103,
+      "name": "KIKKOMAN SAUS PEDAS/GOCUJANG",
+      "stock": 3.0,
+      "keterangan": "2027-04-30 00:00:00"
+    },
+    {
+      "row": 104,
+      "name": "KIKKOMAN YAKINIKU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 105,
+      "name": "KNORR BEEF",
+      "stock": 4.0,
+      "keterangan": "29 MEI 2027"
+    },
+    {
+      "row": 106,
+      "name": "KNORR CHICKEN POWDER",
+      "stock": 7.0,
+      "keterangan": "11 MEI 2027/17 MEI 2027"
+    },
+    {
+      "row": 107,
+      "name": "KNORR DEMI GLACE",
+      "stock": 4.0,
+      "keterangan": "7 FEBRUARI 2027"
+    },
+    {
+      "row": 108,
+      "name": "KOEPOE BAKING SODA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 109,
+      "name": "KOEPOE HIJAU MUDA",
+      "stock": 3.0,
+      "keterangan": "13 JUNI 2030/17 OKTOBER 2030"
+    },
+    {
+      "row": 110,
+      "name": "KOEPOE HIJAU TUA",
+      "stock": 4.0,
+      "keterangan": "28 OKTOBER 2030"
+    },
+    {
+      "row": 111,
+      "name": "KOEPOE MERAH TUA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 112,
+      "name": "KOEPOE PERISA VANILLA",
+      "stock": 1.0,
+      "keterangan": "8 DESEMBER 2028"
+    },
+    {
+      "row": 113,
+      "name": "KOEPOE SODA KUE",
+      "stock": 2.0,
+      "keterangan": "2027-11-19 00:00:00"
+    },
+    {
+      "row": 114,
+      "name": "KOPI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 115,
+      "name": "KOTAK SUSHI",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 116,
+      "name": "KUNCI HOTEL DANGAU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 117,
+      "name": "KWEPIE MAYO",
+      "stock": 3.0,
+      "keterangan": "17 desember 2026"
+    },
+    {
+      "row": 118,
+      "name": "LAMPION PUTIH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 119,
+      "name": "LEE KUM KEE 770 G",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 120,
+      "name": "LEE KUM KEE GRATIS (KECIL)",
+      "stock": 22.0,
+      "keterangan": "28 agustus 2028/3 JANUARI 2028"
+    },
+    {
+      "row": 121,
+      "name": "LIME INFUSED WATER",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 122,
+      "name": "MAIZENA 150 g",
+      "stock": 82.0,
+      "keterangan": "desember 2027"
+    },
+    {
+      "row": 123,
+      "name": "MAMASUKA MAYO",
+      "stock": 16.0,
+      "keterangan": "30 juni 2027"
+    },
+    {
+      "row": 124,
+      "name": "MARSHMALLOW",
+      "stock": 8.0,
+      "keterangan": "2027-09-08 00:00:00"
+    },
+    {
+      "row": 125,
+      "name": "MATCHA LATTE NO SUGAR",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 126,
+      "name": "MAYONAISE",
+      "stock": 2.0,
+      "keterangan": "4 oktober 2026"
+    },
+    {
+      "row": 127,
+      "name": "MENTAIKKO SAUCE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 128,
+      "name": "MINYAK WIJEN YO GUAN HENG",
+      "stock": 12.0,
+      "keterangan": "mei 2028"
+    },
+    {
+      "row": 129,
+      "name": "MIZKAN",
+      "stock": 1.0,
+      "keterangan": "2026-11-01 00:00:00"
+    },
+    {
+      "row": 130,
+      "name": "MUSTARD",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 131,
+      "name": "NAME CARD CASE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 132,
+      "name": "NORI",
+      "stock": 12.0,
+      "keterangan": "19 februari 2028"
+    },
+    {
+      "row": 133,
+      "name": "NUTTELA",
+      "stock": 3.0,
+      "keterangan": "16 JULI 2027"
+    },
+    {
+      "row": 134,
+      "name": "OREO COOKIE CRUMB",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 135,
+      "name": "OREO ORIGINAL",
+      "stock": 12.0,
+      "keterangan": "2026-11-29 00:00:00"
+    },
+    {
+      "row": 136,
+      "name": "PAPER CUP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 137,
+      "name": "PARSLEY",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 138,
+      "name": "PEMBERSIH CLOSET",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 139,
+      "name": "PENNE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 140,
+      "name": "PERISA VANILA",
+      "stock": 9.0,
+      "keterangan": "agustus 2028"
+    },
+    {
+      "row": 141,
+      "name": "PIRING EMAS",
+      "stock": 10.0,
+      "keterangan": null
+    },
+    {
+      "row": 142,
+      "name": "PLASTIK BENING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 143,
+      "name": "PLEDGE SACHET",
+      "stock": 6.0,
+      "keterangan": null
+    },
+    {
+      "row": 144,
+      "name": "POYRAZ OLIVE OIL",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 145,
+      "name": "SALF INSTANT",
+      "stock": 3.0,
+      "keterangan": "2027-11-06 00:00:00"
+    },
+    {
+      "row": 146,
+      "name": "SAN REMO MACARONI",
+      "stock": 4.0,
+      "keterangan": "2028-04-03 00:00:00"
+    },
+    {
+      "row": 147,
+      "name": "SAN REMON FUSILI",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 148,
+      "name": "SAN REMON FETUCINE",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 149,
+      "name": "SAN REMO SPAGHETTI",
+      "stock": 6.0,
+      "keterangan": "10 MEI 2028"
+    },
+    {
+      "row": 150,
+      "name": "SANTAN KARA",
+      "stock": 38.0,
+      "keterangan": "12 JULI 2027"
+    },
+    {
+      "row": 151,
+      "name": "SAOS BBQ",
+      "stock": 10.0,
+      "keterangan": "31 JANUARI 2028"
+    },
+    {
+      "row": 152,
+      "name": "SARUNG TANGAN",
+      "stock": 51.0,
+      "keterangan": null
+    },
+    {
+      "row": 153,
+      "name": "SATAY PASTE 200GR",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 154,
+      "name": "SAUS HOISIN",
+      "stock": 1.0,
+      "keterangan": "21 MARET 2027"
+    },
+    {
+      "row": 155,
+      "name": "SEAL CUP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 156,
+      "name": "SEAWEED",
+      "stock": 0.0,
+      "keterangan": "19 februari 2028"
+    },
+    {
+      "row": 157,
+      "name": "SEDOTAN HITAM /STRAW",
+      "stock": 14.0,
+      "keterangan": null
+    },
+    {
+      "row": 158,
+      "name": "SENCHA GREENTEA",
+      "stock": 2.0,
+      "keterangan": "2024-11-10 00:00:00"
+    },
+    {
+      "row": 159,
+      "name": "SENDOK GARPU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 160,
+      "name": "SENDOK JELLY VICTORY",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 161,
+      "name": "SENDOK JELLY",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 162,
+      "name": "SENDOK PLASTIK",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 163,
+      "name": "SPONS (isi 3)",
+      "stock": 50.0,
+      "keterangan": null
+    },
+    {
+      "row": 164,
+      "name": "SRIRACHA",
+      "stock": 16.0,
+      "keterangan": "3 desember 2027"
+    },
+    {
+      "row": 165,
+      "name": "STABILIZER",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 166,
+      "name": "SUSU COKLAT FRISAN FLAG KEMASAN",
+      "stock": 8.0,
+      "keterangan": "MEI 2027"
+    },
+    {
+      "row": 167,
+      "name": "SUSU COKLAT FRISAN FLAG KALENG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 168,
+      "name": "SUSU UHT",
+      "stock": 88.0,
+      "keterangan": "13 agustus 2027"
+    },
+    {
+      "row": 169,
+      "name": "TABASCO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 170,
+      "name": "TAF BOTOL KUNING",
+      "stock": 3.0,
+      "keterangan": "OKTOBER 2028"
+    },
+    {
+      "row": 171,
+      "name": "TAFFHOME LIS PENGHALANG SERANGGA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 172,
+      "name": "TAKUMI RAMEN SOUP SHOYU",
+      "stock": 2.0,
+      "keterangan": "2026-09-17 00:00:00"
+    },
+    {
+      "row": 173,
+      "name": "TAS PLSTIK LIVINA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 174,
+      "name": "TEA HEAVEN",
+      "stock": 2.0,
+      "keterangan": "2026-11-01 00:00:00"
+    },
+    {
+      "row": 175,
+      "name": "TEH BUTTERFLY PEA BLUE",
+      "stock": 1.0,
+      "keterangan": "30 OKTOBER 2026"
+    },
+    {
+      "row": 176,
+      "name": "TEH NATURAL MATERIAL",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 177,
+      "name": "TEH SUSU (SERBUK TEH 82)",
+      "stock": 1.0,
+      "keterangan": "31 DESEMBER 2028"
+    },
+    {
+      "row": 178,
+      "name": "TEH UNGU",
+      "stock": 1.0,
+      "keterangan": "2025-11-01 00:00:00"
+    },
+    {
+      "row": 179,
+      "name": "TELUR",
+      "stock": 105.0,
+      "keterangan": null
+    },
+    {
+      "row": 180,
+      "name": "TELUR KAMPUNG",
+      "stock": 54.0,
+      "keterangan": null
+    },
+    {
+      "row": 181,
+      "name": "TEPUNG BERAS",
+      "stock": 37.0,
+      "keterangan": "19 MEI 2028"
+    },
+    {
+      "row": 182,
+      "name": "TEPUNG KARAGE",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 183,
+      "name": "TEPUNG KETAN",
+      "stock": 24.0,
+      "keterangan": "07 JULI 2027"
+    },
+    {
+      "row": 184,
+      "name": "TEPUNG KETAN HITAM",
+      "stock": 6.0,
+      "keterangan": "20 FEBRUARI 2027"
+    },
+    {
+      "row": 185,
+      "name": "TEPUNG KUNCI BIRU 1KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 186,
+      "name": "TEPUNG LIFE (1,5) KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 187,
+      "name": "TEPUNG LIFE 1KG",
+      "stock": 29.0,
+      "keterangan": "MEI 2027"
+    },
+    {
+      "row": 188,
+      "name": "TEPUNG POTATO",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 189,
+      "name": "TEPUNG ROTI 500 G",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 190,
+      "name": "TEPUNG TANG MIEN 1,5 KG",
+      "stock": 16.0,
+      "keterangan": null
+    },
+    {
+      "row": 191,
+      "name": "TEPUNG TAPIOKA",
+      "stock": 6.0,
+      "keterangan": "NOVEMBER 2027"
+    },
+    {
+      "row": 192,
+      "name": "TEPUNG TEMPURA",
+      "stock": 10.0,
+      "keterangan": "11 SEPTEMBER 2026"
+    },
+    {
+      "row": 193,
+      "name": "TEPUNG CAKRA 1,5 KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 194,
+      "name": "TEPUNG CAKRA 1 KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 195,
+      "name": "TEPUNG TERIGU 1,5 KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 196,
+      "name": "TEPUNG FALCON 1 KG",
+      "stock": 20.0,
+      "keterangan": null
+    },
+    {
+      "row": 197,
+      "name": "THINWALL 20ML",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 198,
+      "name": "THINWALL 25ML ISI 50",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 199,
+      "name": "THINWALL 150 ML (ISI 25)",
+      "stock": 18.0,
+      "keterangan": null
+    },
+    {
+      "row": 200,
+      "name": "THINWALL 750 ML",
+      "stock": 17.0,
+      "keterangan": null
+    },
+    {
+      "row": 201,
+      "name": "THINWALL 1000ML",
+      "stock": 24.0,
+      "keterangan": null
+    },
+    {
+      "row": 202,
+      "name": "THINWALL 400 (ISI 25)",
+      "stock": 8.0,
+      "keterangan": null
+    },
+    {
+      "row": 203,
+      "name": "THREES SHEEP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 204,
+      "name": "TOBASIO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 205,
+      "name": "TOEFIECO TALAS",
+      "stock": 1.0,
+      "keterangan": "07 AGUSTUS 2027"
+    },
+    {
+      "row": 206,
+      "name": "TOFFIECO COKLAT",
+      "stock": 1.0,
+      "keterangan": "16 FEBRUARI 2026"
+    },
+    {
+      "row": 207,
+      "name": "TOKUYO TONKATSU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 208,
+      "name": "TTS MUSCHROOM",
+      "stock": 32.0,
+      "keterangan": "25 juli 2028/18 JULI 2028"
+    },
+    {
+      "row": 209,
+      "name": "TUNA KING FISHER",
+      "stock": 3.0,
+      "keterangan": "2028-11-06 00:00:00"
+    },
+    {
+      "row": 210,
+      "name": "TUSUK BUAH BENING",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 211,
+      "name": "VAN HOUTEN COKLAT BUBUK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 212,
+      "name": "VIRGIN OIL SUKA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 213,
+      "name": "WIJEN HITAM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 214,
+      "name": "WIJEN PUTIH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 215,
+      "name": "WRAPPING BESAR",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 216,
+      "name": "WRAPPING KECIL",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 217,
+      "name": "WASABI POWDER",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 218,
+      "name": "YELLOW MUSTRAD",
+      "stock": 6.0,
+      "keterangan": "09 MEI 2027"
+    },
+    {
+      "row": 219,
+      "name": "ZODA SODA WATER",
+      "stock": 44.0,
+      "keterangan": null
+    },
+    {
+      "row": 220,
+      "name": "BIJI KACANG HIJAU",
+      "stock": 0.0,
+      "keterangan": "2026-11-06 00:00:00"
+    },
+    {
+      "row": 221,
+      "name": "EXTRA VIRGIN OLIVE OIL",
+      "stock": 6.0,
+      "keterangan": "02 DESEMBER 2027"
+    },
+    {
+      "row": 222,
+      "name": "SEDOTAN BENGKOK KERTAS  5 mmX24 cm",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 223,
+      "name": "BRONIES M",
+      "stock": 40.0,
+      "keterangan": null
+    },
+    {
+      "row": 224,
+      "name": "BROWNIES L",
+      "stock": 50.0,
+      "keterangan": "2026-11-18 00:00:00"
+    },
+    {
+      "row": 225,
+      "name": "BROWNIES S",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 226,
+      "name": "KHARISMA UK 6X18",
+      "stock": 28.0,
+      "keterangan": null
+    },
+    {
+      "row": 227,
+      "name": "SEDOTAN HITAM SKSS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 228,
+      "name": "BENTO LU",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 229,
+      "name": "LIBRA PACK FOOD BOX CONTAINER",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 230,
+      "name": "V60 COFFEE PAPER FILTER FILTER 1-2 CUPS",
+      "stock": 9.0,
+      "keterangan": null
+    },
+    {
+      "row": 231,
+      "name": "V60 COFFEE PAPER FILTER 2-4 CUPS VO2",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 232,
+      "name": "V60 COFFEE PAPER FILTER 2-4 CUPS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 233,
+      "name": "COFFEE PAPER FILTER 1-2 CUPS KOTAK HITAM",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 234,
+      "name": "VESPER COFFEE PAPER FILTER 1-2 CUPS V60",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 235,
+      "name": "LUSTER DUST SILVER 33449",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 236,
+      "name": "LUSTER DUST GOLD 33449",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 237,
+      "name": "TOFFIECO RED VELVET",
+      "stock": 1.0,
+      "keterangan": "18 MEI 2028"
+    },
+    {
+      "row": 238,
+      "name": "ONE TWO CUPS 7RHAPGTP",
+      "stock": 1.0,
+      "keterangan": null
+    },
+    {
+      "row": 239,
+      "name": "ONE TWO CUPS 6X8 CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 240,
+      "name": "ALAS GELAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 241,
+      "name": "ROL PLASTIK PENUTUP GELAS DANGAU",
+      "stock": 5.0,
+      "keterangan": null
+    },
+    {
+      "row": 242,
+      "name": "KERTAS BAKPAU 9X6,5 CM",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 243,
+      "name": "NATURAL MATERIAL",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 244,
+      "name": "SENDOK BEBEK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 245,
+      "name": "PIRING KERTAS EMAS",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 246,
+      "name": "TEPUNG POTATO STARCH 1 KG",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 247,
+      "name": "TEPUNG KETAN PUTIH",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 248,
+      "name": "SAN REMO PENNE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 249,
+      "name": "SAN REMO FETTUCCINE",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 250,
+      "name": "PLEDGE FURNITURE POLISH BOTOL 330 G",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 251,
+      "name": "KRISBOW MOP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 252,
+      "name": "LOXUS CLEANER",
+      "stock": 4.0,
+      "keterangan": null
+    },
+    {
+      "row": 253,
+      "name": "PRO CLEAN MAGIC BLOCK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 254,
+      "name": "PRO CLEAN MAGIC SPONGE",
+      "stock": 18.0,
+      "keterangan": null
+    },
+    {
+      "row": 255,
+      "name": "BENSDORP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 256,
+      "name": "KORAN",
+      "stock": 250.0,
+      "keterangan": null
+    },
+    {
+      "row": 257,
+      "name": "BOTOL BODY SOAP",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 258,
+      "name": "BOTOL SHAMPOO",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 259,
+      "name": "MR SENDOK GARPU PLASTIK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 260,
+      "name": "KCS GARPU PLASTIK",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 261,
+      "name": "PENCETAK PIZZA",
+      "stock": 0.0,
+      "keterangan": null
+    },
+    {
+      "row": 262,
+      "name": "WRAPING UKURAN 40X500",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 263,
+      "name": "MAG CHEESE",
+      "stock": 4.0,
+      "keterangan": "FERBUARI 2027"
+    },
+    {
+      "row": 264,
+      "name": "MEISES COKLAT",
+      "stock": 2.0,
+      "keterangan": "15 JULI 2027"
+    },
+    {
+      "row": 265,
+      "name": "KANTONG UK 25",
+      "stock": 11.0,
+      "keterangan": null
+    },
+    {
+      "row": 266,
+      "name": "KAIN PEL",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 267,
+      "name": "MIE UDON",
+      "stock": 3.0,
+      "keterangan": null
+    },
+    {
+      "row": 268,
+      "name": "PASTA PANDAN",
+      "stock": 2.0,
+      "keterangan": null
+    },
+    {
+      "row": 269,
+      "name": "PASTA KACANG MERAH",
+      "stock": 3.0,
+      "keterangan": null
+    }
+  ]
+}
