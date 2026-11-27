@@ -18,6 +18,11 @@ const dashboardController = require('../controllers/dashboardController');
 const activityLogController = require('../controllers/activityLogController');
 const notificationController = require('../controllers/notificationController');
 
+// 0. Health Check
+router.get('/health', (req, res) => {
+  res.json({ status: 'OK', message: 'API is running' });
+});
+
 // 1. Auth & Visibility Routes
 router.post('/auth/login', authController.login);
 router.get('/auth/me', verifyToken, authController.getMe);
