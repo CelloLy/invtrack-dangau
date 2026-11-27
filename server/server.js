@@ -9,28 +9,38 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 5000;
 
+const fs = require('fs');
+
 // Middlewares
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
-// API Routes
-app.use('/api', apiRoutes);
-
-// Health Check Endpoint
+// Health Check Endpoints
 app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', message: 'InvTrack Pro API Server is running.' });
 });
-
-// Serve frontend static build
-const clientDistPath = path.join(__dirname, '../client/dist');
-app.use(express.static(clientDistPath));
-
-// SPA Fallback for any client routes
-app.get('*', (req, res, next) => {
-  if (req.path.startsWith('/api')) return next();
-  res.sendFile(path.join(clientDistPath, 'index.html'));
+app.get('/health', (req, res) => {
+  res.json({ status: 'OK', message: 'InvTrack Pro API Server is running.' });
 });
+
+// API Routes (mounted on /api and root fallback for serverless rewrites)
+app.use('/api', apiRoutes);
+app.use('/', apiRoutes);
+
+// Serve frontend static build (for standalone VPS or local node server)
+if (process.env.VERCEL !== '1') {
+  const rootDist = path.join(__dirname, '../dist');
+  const clientDist = path.join(__dirname, '../client/dist');
+  const clientDistPath = fs.existsSync(rootDist) ? rootDist : clientDist;
+  app.use(express.static(clientDistPath));
+
+  // SPA Fallback for any client routes
+  app.get('*', (req, res, next) => {
+    if (req.path.startsWith('/api')) return next();
+    res.sendFile(path.join(clientDistPath, 'index.html'));
+  });
+}
 
 // Error handling middleware
 app.use((err, req, res, next) => {
@@ -44,7 +54,7 @@ const syncSequences = async () => {
   for (const t of tables) {
     try {
       await db.query(`SELECT setval(pg_get_serial_sequence('${t}', 'id'), COALESCE((SELECT MAX(id) FROM ${t}), 1))`);
-    } catch (e) {}
+    } catch (e) { }
   }
 };
 
