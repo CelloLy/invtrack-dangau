@@ -78,11 +78,16 @@ const initRoleVisibilities = async () => {
   }
 };
 
-app.listen(PORT, async () => {
-  await syncSequences();
-  await initRoleVisibilities();
-  console.log(`====================================================`);
-  console.log(` InvTrack Pro Server Running on http://localhost:${PORT}`);
-  console.log(` Connected Database: PostgreSQL (${process.env.DB_NAME || 'invtrack_dangau'})`);
-  console.log(`====================================================`);
-});
+if (process.env.VERCEL !== '1') {
+  app.listen(PORT, async () => {
+    await syncSequences();
+    await initRoleVisibilities();
+    console.log(`====================================================`);
+    console.log(` InvTrack Pro Server Running on http://localhost:${PORT}`);
+    console.log(` Connected Database: PostgreSQL (${process.env.DB_NAME || 'invtrack_dangau'})`);
+    console.log(`====================================================`);
+  });
+}
+
+module.exports = app;
+
