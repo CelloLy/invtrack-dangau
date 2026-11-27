@@ -28,11 +28,12 @@ app.get('/health', (req, res) => {
 app.use('/api', apiRoutes);
 app.use('/', apiRoutes);
 
-// Serve frontend static build (checks root ./dist first, cwd, then ../client/dist)
+// Serve frontend static build (checks root ./public, ./dist, cwd, then ../client/dist)
+const publicPath = path.join(__dirname, '../public');
 const rootDist = path.join(__dirname, '../dist');
 const cwdDist = path.join(process.cwd(), 'dist');
 const clientDist = path.join(__dirname, '../client/dist');
-const clientDistPath = fs.existsSync(rootDist) ? rootDist : (fs.existsSync(cwdDist) ? cwdDist : clientDist);
+const clientDistPath = fs.existsSync(publicPath) ? publicPath : (fs.existsSync(rootDist) ? rootDist : (fs.existsSync(cwdDist) ? cwdDist : clientDist));
 app.use(express.static(clientDistPath));
 
 // SPA Fallback for any client routes
@@ -40,6 +41,7 @@ app.get('*', (req, res, next) => {
   if (req.path.startsWith('/api')) return next();
   
   const possiblePaths = [
+    path.join(publicPath, 'index.html'),
     path.join(clientDistPath, 'index.html'),
     path.join(cwdDist, 'index.html'),
     path.join(rootDist, 'index.html'),
