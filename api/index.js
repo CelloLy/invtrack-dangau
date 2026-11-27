@@ -1,16 +1,18 @@
 const app = require('../server/server');
 
 module.exports = (req, res) => {
-  // Restore real URL if Vercel rewrote it to api/index.js
-  const matchedPath = req.headers['x-matched-path'] || req.headers['x-forwarded-url'];
-  const queryUrl = req.query && (req.query.__url || req.query.match);
-
-  if (matchedPath && !matchedPath.includes('index.js')) {
-    req.url = matchedPath;
-  } else if (queryUrl) {
-    req.url = queryUrl.startsWith('/') ? queryUrl : '/' + queryUrl;
-  } else if (req.url && req.url.startsWith('/api/index.js')) {
-    req.url = req.url.replace('/api/index.js', '') || '/';
+  try {
+    const urlObj = new URL(req.url, 'http://localhost');
+    const target = urlObj.searchParams.get('__url');
+    if (target) {
+      urlObj.searchParams.delete('__url');
+      const remaining = urlObj.searchParams.toString();
+      req.url = '/api/' + target.replace(/^\//, '') + (remaining ? '?' + remaining : '');
+    } else if (req.headers['x-matched-path'] && !req.headers['x-matched-path'].includes('index.js')) {
+      req.url = req.headers['x-matched-path'];
+    }
+  } catch (e) {
+    console.error('URL parse error in serverless wrapper:', e);
   }
 
   return app(req, res);

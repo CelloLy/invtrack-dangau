@@ -16,6 +16,20 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+// URL restoration middleware for Vercel Serverless Function rewrites
+app.use((req, res, next) => {
+  try {
+    const urlObj = new URL(req.url, 'http://localhost');
+    const target = urlObj.searchParams.get('__url');
+    if (target) {
+      urlObj.searchParams.delete('__url');
+      const remaining = urlObj.searchParams.toString();
+      req.url = '/api/' + target.replace(/^\//, '') + (remaining ? '?' + remaining : '');
+    }
+  } catch (e) {}
+  next();
+});
+
 // Health Check Endpoints
 app.get('/api/health', (req, res) => {
   res.json({ status: 'OK', message: 'InvTrack Pro API Server is running.' });
