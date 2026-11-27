@@ -1,73 +1,97 @@
-# Panduan Hosting Online (100% GRATIS & TANPA KARTU KREDIT)
+# Panduan Lengkap Hosting Online (24 Jam Nonstop Tanpa Laptop Hidup)
 ## Sistem Manajemen Persediaan & Pengadaan Barang - Dangau Hotels & Resorts
 
-Bagi mahasiswa atau pengembang yang **tidak memiliki kartu kredit**, Anda tetap bisa meng-online-kan aplikasi ini 24 jam nonstop secara **100% GRATIS** menggunakan kombinasi:
-1. **Database PostgreSQL Cloud**: [Supabase](https://supabase.com) (TIDAK MINTA KARTU KREDIT SAMA SEKALI, cukup login GitHub).
-2. **Server Aplikasi Web**: [Vercel](https://vercel.com) (TIDAK BUTUH KARTU KREDIT, hanya verifikasi nomor HP via SMS).
+Aplikasi ini dirancang sebagai sistem fullstack (Frontend React + Backend Node.js Express + Database PostgreSQL) yang sudah terintegrasi rapi. Seluruh aplikasi dan datanya dapat di-hosting secara **GRATIS** dan online 24 jam menggunakan layanan cloud modern:
+- **Database Cloud**: [Neon Tech](https://neon.tech) (PostgreSQL Cloud Gratis di Region Singapore).
+- **Server Aplikasi**: [Render](https://render.com) (Server Fullstack Gratis dengan domain HTTPS otomatis).
 
 ---
 
-## Langkah 1: Push Kode ke GitHub Anda
+## Langkah 1: Upload Kode ke Akun GitHub Anda
 
-1. Buka [GitHub](https://github.com/) dan buat repository baru bernama `invtrack-dangau`.
-2. Di PowerShell / Terminal proyek Anda, jalankan:
-   ```bash
-   git remote set-url origin https://github.com/<username-anda>/<nama-repo>.git
-   git push -u origin main
-   ```
+1. Buka [GitHub](https://github.com/) dan buat repository baru (contoh nama: `invtrack-dangau`), pilih **Public** atau **Private**.
+2. Di laptop Anda, buka terminal / PowerShell di folder proyek ini dan jalankan perintah berikut (ganti `<username-anda>` dan `<nama-repo>` sesuai akun GitHub Anda):
 
----
-
-## Langkah 2: Buat Database Online di Supabase (Tanpa Kartu Kredit)
-
-1. Buka [https://supabase.com](https://supabase.com) dan klik **Start your project**.
-2. Login langsung menggunakan akun **GitHub** Anda.
-3. Klik tombol **New Project**:
-   - **Name**: `invtrack-dangau-db`
-   - **Database Password**: Buat password yang aman dan mudah diingat (misal: `DangauKubuRaya2026!`) *(CATAT PASSWORD INI)*.
-   - **Region**: Pilih **Singapore (`Southeast Asia`)** agar koneksi dari Indonesia sangat cepat.
-   - **Pricing Plan**: Pilih **Free Tier** ($0 - Tidak diminta nomor kartu apa pun).
-   - Klik **Create new project** dan tunggu sekitar 1-2 menit hingga status database aktif.
-4. **Import Seluruh Data Persediaan**:
-   - Di dashboard Supabase, klik ikon **SQL Editor** (ikon dokumen query di menu samping kiri).
-   - Klik tombol **New query**.
-   - Buka file dump SQL yang sudah saya sediakan di proyek Anda: [server/database/invtrack_dangau_full_dump.sql](file:///d:/Bahan%20Kuliah/S7/NEW/Tugas%20KP%20(USING)/server/database/invtrack_dangau_full_dump.sql).
-   - Copy semua isinya (`Ctrl + A`, lalu `Ctrl + C`).
-   - Paste ke dalam SQL Editor Supabase, lalu klik tombol **Run** (atau tekan `Ctrl + Enter`).
-   - Tunggu hingga muncul tulisan *Success. No rows returned*. Seluruh data barang, akun, role, dan transaksi kini sudah aktif di cloud!
-5. **Salin Connection String (URL Database)**:
-   - Klik tombol **Connect** di bagian atas dashboard Supabase (atau ke menu **Project Settings** -> **Database**).
-   - Pada bagian **Connection string**, pilih tab **URI**.
-   - Pilih mode **Transaction** (port 6543) atau **Session** (port 5432).
-   - Contoh teks yang disalin:
-     ```text
-     postgresql://postgres.[project-ref]:[YOUR-PASSWORD]@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres
-     ```
-   - **Ganti `[YOUR-PASSWORD]`** dengan password database yang Anda buat pada langkah 3 tadi.
-
----
-
-## Langkah 3: Deploy Aplikasi di Vercel (Tanpa Kartu Kredit)
-
-1. Buka [https://vercel.com](https://vercel.com) dan klik **Sign Up** -> Pilih **Continue with GitHub**.
-   *(Jika diminta verifikasi nomor telepon, cukup masukkan nomor HP aktif untuk menerima kode verifikasi SMS/WA gratis).*
-2. Di dashboard Vercel, klik tombol **Add New...** -> Pilih **Project**.
-3. Cari repository `invtrack-dangau` yang tadi Anda push ke GitHub, lalu klik **Import**.
-4. Di bagian **Environment Variables**, tambahkan 3 variabel ini:
-   - `DATABASE_URL` = *(Paste teks connection string dari Supabase tadi)*
-   - `JWT_SECRET` = `invtrack_dangau_secret_key_2026_kp`
-   - `NODE_ENV` = `production`
-5. Klik tombol **Deploy**!
-   - Vercel akan otomatis menjalankan build frontend Vite dan backend serverless API.
-   - Tunggu sekitar 1-2 menit hingga muncul kembang api ucapan selamat dari Vercel!
-
----
-
-## Langkah 4: Selesai! Web Anda Sudah Online 24 Jam
-
-Vercel akan memberikan link website publik berdomain HTTPS resmi, contohnya:
-```text
-https://invtrack-dangau.vercel.app
+```bash
+git remote set-url origin https://github.com/<username-anda>/<nama-repo>.git
+git push -u origin main
 ```
-- Anda bisa membuka link ini dari **smartphone / HP Anda**, laptop dosen penguji, atau rekan kerja kapan pun.
-- Laptop Anda bisa langsung dimatikan, dan aplikasi tetap online 24 jam nonstop!
+
+*(Jika diminta login oleh GitHub, silakan selesaikan otentikasi browser atau gunakan Personal Access Token).*
+
+---
+
+## Langkah 2: Buat Database Online Gratis di Neon.tech (2 Menit)
+
+1. Buka situs [https://neon.tech](https://neon.tech) dan klik **Sign Up** (bisa langsung login dengan akun GitHub atau Google).
+2. Buat project baru:
+   - **Project Name**: `invtrack-dangau-db`
+   - **Region**: Pilih **Singapore (`ap-southeast-1`)** agar koneksi dari Indonesia sangat cepat dan minim jeda.
+   - Klik **Create Project**.
+3. Import seluruh data database yang sudah diekspor:
+   - Di dashboard Neon, klik menu **SQL Editor** di sisi kiri.
+   - Buka file [server/database/invtrack_dangau_full_dump.sql](file:///d:/Bahan%20Kuliah/S7/NEW/Tugas%20KP%20(USING)/server/database/invtrack_dangau_full_dump.sql) di text editor / VS Code.
+   - **Copy seluruh isinya** (Ctrl + A, Ctrl + C), lalu **Paste** ke kolom SQL Editor Neon.
+   - Klik tombol **Run** (atau Ctrl + Enter).
+   - Tunggu beberapa detik sampai muncul notifikasi sukses (*Query completed*). Seluruh tabel, role, user, barang, dan transaksi kini sudah tersimpan di cloud!
+4. Salin URL Koneksi Database:
+   - Kembali ke halaman **Dashboard** di Neon.
+   - Pada bagian **Connection Details**, pilih **Connection string** (pastikan mode *Pooled connection* atau *Direct connection*).
+   - Copy teks koneksinya yang berformat seperti:
+     ```text
+     postgresql://alex_owner:abc123xyz@ep-cool-snowflake-123456.ap-southeast-1.neon.tech/neondb?sslmode=require
+     ```
+   - Simpan teks URL ini untuk dimasukkan ke Render di Langkah 3.
+
+---
+
+## Langkah 3: Deploy Aplikasi di Render.com (Gratis)
+
+1. Buka situs [https://render.com](https://render.com) dan login menggunakan akun GitHub Anda.
+2. Di dashboard Render, klik tombol **New +** di pojok kanan atas, lalu pilih **Web Service**.
+3. Pilih opsi **Build and deploy from a Git repository**, lalu klik **Next**.
+4. Cari dan pilih repository `invtrack-dangau` yang sudah Anda upload di Langkah 1 (klik **Connect**).
+5. Isi formulir konfigurasi berikut:
+   - **Name**: `invtrack-dangau` *(nama ini akan jadi subdomain Anda, misal: `invtrack-dangau.onrender.com`)*
+   - **Region**: **Singapore (Southeast Asia)**
+   - **Branch**: `main`
+   - **Root Directory**: *(biarkan kosong)*
+   - **Runtime**: `Node`
+   - **Build Command**: 
+     ```bash
+     npm run build
+     ```
+   - **Start Command**: 
+     ```bash
+     npm start
+     ```
+   - **Instance Type**: Pilih **Free** ($0 / month).
+6. Gulir ke bawah ke bagian **Environment Variables** (Variabel Lingkungan), lalu klik **Add Environment Variable** untuk menambahkan 3 kunci ini:
+
+| Key | Value | Keterangan |
+| :--- | :--- | :--- |
+| `DATABASE_URL` | *(Paste URL koneksi dari Neon di Langkah 2)* | Menghubungkan ke PostgreSQL Cloud |
+| `JWT_SECRET` | `invtrack_dangau_secret_key_2026_kp` | Kunci keamanan autentikasi login |
+| `NODE_ENV` | `production` | Mengaktifkan optimasi mode produksi |
+
+7. Klik tombol **Deploy Web Service** di bagian paling bawah.
+
+---
+
+## Langkah 4: Selesai & Aplikasi Siap Dipakai di HP / Laptop Mana Pun!
+
+1. Render akan otomatis menjalankan proses instalasi, mem-build frontend Vite, dan menjalankan server. Proses ini biasanya membutuhkan waktu sekitar 2–3 menit.
+2. Setelah status berubah menjadi **Live** dengan centang hijau, Render akan memberikan link URL permanen Anda di bagian atas, contoh:
+   ```text
+   https://invtrack-dangau.onrender.com
+   ```
+3. **Bisa Langsung Dibuka di HP Siapa Saja**:
+   - Buka link tersebut di browser ponsel (Chrome, Safari, dsb.) atau laptop mana pun tanpa perlu laptop ini menyala!
+   - Semua akun pengguna yang ada di database lokal Anda (Admin Gudang, Accounting, Purchasing, Manager, dan Master) dapat langsung login dengan kredensial yang sama.
+   - Tampilan sudah responsif dengan menu drawer di HP dan tabel yang dapat digeser.
+
+---
+
+> [!TIP]
+> **Catatan Layanan Gratis Render**:
+> Pada paket Free, jika web tidak dibuka selama 15 menit, server akan masuk mode *sleep* untuk menghemat daya. Saat dibuka kembali pertama kali, dibutuhkan jeda sekitar 30 detik untuk *wake up*, setelah itu akan langsung berjalan cepat dan normal kembali. Jika ingin aktif 100% instan tanpa jeda, Anda bisa menggunakan platform seperti **Railway.app** atau menyewa VPS murah Indonesia (seperti IDCloudHost / DomaiNesia mulai dari Rp 30.000 - Rp 50.000 / bulan).
