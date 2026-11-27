@@ -28,19 +28,21 @@ app.get('/health', (req, res) => {
 app.use('/api', apiRoutes);
 app.use('/', apiRoutes);
 
-// Serve frontend static build (for standalone VPS or local node server)
-if (process.env.VERCEL !== '1') {
-  const rootDist = path.join(__dirname, '../dist');
-  const clientDist = path.join(__dirname, '../client/dist');
-  const clientDistPath = fs.existsSync(rootDist) ? rootDist : clientDist;
-  app.use(express.static(clientDistPath));
+// Serve frontend static build (checks root ./dist first, then ../client/dist)
+const rootDist = path.join(__dirname, '../dist');
+const clientDist = path.join(__dirname, '../client/dist');
+const clientDistPath = fs.existsSync(rootDist) ? rootDist : clientDist;
+app.use(express.static(clientDistPath));
 
-  // SPA Fallback for any client routes
-  app.get('*', (req, res, next) => {
-    if (req.path.startsWith('/api')) return next();
-    res.sendFile(path.join(clientDistPath, 'index.html'));
-  });
-}
+// SPA Fallback for any client routes
+app.get('*', (req, res, next) => {
+  if (req.path.startsWith('/api')) return next();
+  const indexPath = path.join(clientDistPath, 'index.html');
+  if (fs.existsSync(indexPath)) {
+    return res.sendFile(indexPath);
+  }
+  next();
+});
 
 // Error handling middleware
 app.use((err, req, res, next) => {
